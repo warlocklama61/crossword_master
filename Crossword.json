@@ -1,0 +1,1966 @@
+{
+	"data": [
+		{
+			"levelID": 0,
+			"rowData": [
+				"bunts-bus",
+				"u-u-u---n",
+				"tub-n---u",
+				"------sub",
+				"------t--",
+				"-----nuts",
+				"------b-t",
+				"--------u",
+				"--------n"
+			],
+			"columnData": [
+				"but------",
+				"u-u------",
+				"nub------",
+				"t--------",
+				"sun------",
+				"-----n---",
+				"b--stub--",
+				"u--u-t---",
+				"snub-stun"
+			],
+			"options": "bunstsaa",
+			"bonusWords": [
+				"bust",
+				"tun",
+				"buts"
+			],
+			"revealedWordKey": [
+				"06",
+				"07",
+				"08",
+				"04",
+				"14",
+				"24",
+				"58",
+				"68",
+				"78",
+				"88",
+				"00",
+				"10",
+				"20",
+				"55",
+				"56",
+				"57",
+				"66",
+				"03",
+				"02",
+				"01"
+			],
+			"foundBonusWords": [
+				"bust"
+			],
+			"foundWords": [
+				"bus",
+				"sun",
+				"stun",
+				"but",
+				"nuts",
+				"bunts"
+			],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 1,
+			"rowData": [
+				"---------",
+				"---------",
+				"---------",
+				"---set---",
+				"-----east",
+				"-----ate-",
+				"------eat",
+				"-------t-",
+				"sat------"
+			],
+			"columnData": [
+				"--------s",
+				"--------a",
+				"--------t",
+				"---s-----",
+				"---e-----",
+				"---tea---",
+				"----ate--",
+				"----seat-",
+				"----t-t--"
+			],
+			"options": "east",
+			"bonusWords": [
+				"sat",
+				"teas"
+			],
+			"revealedWordKey": [
+				"35",
+				"45",
+				"55",
+				"46",
+				"47",
+				"48",
+				"66",
+				"67",
+				"68",
+				"57",
+				"77",
+				"56",
+				"33",
+				"34"
+			],
+			"foundBonusWords": [],
+			"foundWords": [
+				"tea",
+				"east",
+				"eat",
+				"seat",
+				"ate",
+				"set"
+			],
+			"bestTime": 205.65,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 2,
+			"rowData": [
+				"---------",
+				"-----case",
+				"-----a---",
+				"--caste--",
+				"----e----",
+				"----aces-",
+				"----ta---",
+				"-----s---",
+				"-----t---"
+			],
+			"columnData": [
+				"---------",
+				"---------",
+				"---c-----",
+				"---a-----",
+				"---seat--",
+				"-cat-cast",
+				"-a-e-e---",
+				"-s---s---",
+				"-e-------"
+			],
+			"options": "caste",
+			"bonusWords": [
+				"sect",
+				"tea",
+				"east",
+				"scat",
+				"acts"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 19.77,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 3,
+			"rowData": [
+				"-----earn",
+				"-ban-----",
+				"-e-a-----",
+				"-a-bean--",
+				"-r--a-e--",
+				"----r-a--",
+				"-----era-",
+				"---------",
+				"----bar--"
+			],
+			"columnData": [
+				"---------",
+				"-bear----",
+				"-a-------",
+				"-nab-----",
+				"---ear--b",
+				"e--a--e-a",
+				"a--near-r",
+				"r-----a--",
+				"n--------"
+			],
+			"options": "BANRE",
+			"bonusWords": [
+				"are",
+				"ran",
+				"bra",
+				"bare",
+				"barn"
+			],
+			"revealedWordKey": [
+				"11",
+				"06",
+				"56",
+				"46"
+			],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 123.06,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 4,
+			"rowData": [
+				"---t----f",
+				"facet---a",
+				"a--ant--c",
+				"c----feat",
+				"enact----",
+				"--c-a----",
+				"--n-neat-",
+				"--e---c--",
+				"---cent--"
+			],
+			"columnData": [
+				"-face----",
+				"-a--n----",
+				"-c--acne-",
+				"tea-c---c",
+				"-tn-tan-e",
+				"--tf--e-n",
+				"---e--act",
+				"---a--t--",
+				"fact-----"
+			],
+			"options": "FATNCE",
+			"bonusWords": [
+				"fate",
+				"fan",
+				"cafe",
+				"cat",
+				"ten",
+				"net",
+				"can",
+				"ace"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 5,
+			"rowData": [
+				"spat-leap",
+				"-a---a--a",
+				"-sea-past",
+				"-t----lt-",
+				"seal--pet",
+				"l-let-spa",
+				"a--tap--s",
+				"p---lap-t",
+				"----el--e"
+			],
+			"columnData": [
+				"s---slap-",
+				"paste----",
+				"a-e-al---",
+				"t-a-let--",
+				"-----tale",
+				"lap---pal",
+				"e-alps-p-",
+				"a-step---",
+				"pat-taste"
+			],
+			"options": "sealpt",
+			"bonusWords": [
+				"plate",
+				"least",
+				"peal",
+				"tape",
+				"east",
+				"eat"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 6,
+			"rowData": [
+				"brag-gear",
+				"e---rat-a",
+				"a-------t",
+				"t-great-e",
+				"--r---e--",
+				"brat--age",
+				"e-bare---",
+				"g----a---",
+				"-bat-rage"
+			],
+			"columnData": [
+				"beat-beg-",
+				"r----r--b",
+				"a--grab-a",
+				"g--r-ta-t",
+				"-r-e--r--",
+				"ga-a--ear",
+				"et-tea--a",
+				"a----g--g",
+				"rate-e--e"
+			],
+			"options": "GRABTE",
+			"bonusWords": [
+				"gate",
+				"get",
+				"tear",
+				"beta",
+				"grate",
+				"bag",
+				"tag"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 7,
+			"rowData": [
+				"chase----",
+				"hate-mate",
+				"a--------",
+				"t-schema-",
+				"s--he-a-s",
+				"---east-c",
+				"---at-c-a",
+				"meat--ham",
+				"-cash----"
+			],
+			"columnData": [
+				"chats--m-",
+				"ha-----ec",
+				"at-s---aa",
+				"se-cheats",
+				"e--heat-h",
+				"-m-e-s---",
+				"-a-match-",
+				"-t-a---a-",
+				"-e--scam-"
+			],
+			"options": "MATCHES",
+			"bonusWords": [
+				"each",
+				"math",
+				"tech",
+				"case",
+				"same",
+				"steam",
+				"achme",
+				"team"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 8,
+			"rowData": [
+				"------gut",
+				"-trek---u",
+				"-r------s",
+				"-urges--k",
+				"-e-u---u-",
+				"---e---s-",
+				"---set-e-",
+				"-get-sure",
+				"---------"
+			],
+			"columnData": [
+				"---------",
+				"-true--g-",
+				"-r-r---e-",
+				"-e-guest-",
+				"-k-e--e--",
+				"---s--ts-",
+				"g------u-",
+				"u---user-",
+				"tusk---e-"
+			],
+			"options": "URGESKT",
+			"bonusWords": [
+				"rest",
+				"rust",
+				"tugs",
+				"surge",
+				"gust",
+				"rug",
+				"tug"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 9,
+			"rowData": [
+				"----troy-",
+				"ratio-a-b",
+				"-b--y-t-a",
+				"-o------t",
+				"orbit--t-",
+				"-to--air-",
+				"--a--r-i-",
+				"--riot-o-",
+				"---------"
+			],
+			"columnData": [
+				"-r--o----",
+				"-abort---",
+				"-t--boar-",
+				"-i--i--i-",
+				"toy-t--o-",
+				"r----art-",
+				"oat--i---",
+				"y---trio-",
+				"-bat-----"
+			],
+			"options": "RITAOYB",
+			"bonusWords": [
+				"bait",
+				"bro",
+				"tar",
+				"try",
+				"bot",
+				"bay",
+				"tray",
+				"boat"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 10,
+			"rowData": [
+				"-maple---",
+				"------l--",
+				"--plane--",
+				"--ea--a-m",
+				"-lamp-pea",
+				"-e-e----l",
+				"-a----ape",
+				"-nap--m--",
+				"------pan"
+			],
+			"columnData": [
+				"---------",
+				"m---lean-",
+				"a-pea--a-",
+				"p-lame-p-",
+				"l-a-p----",
+				"e-n------",
+				"-leap-amp",
+				"----e-p-a",
+				"---male-n"
+			],
+			"options": "NMPLAE",
+			"bonusWords": [
+				"ale",
+				"men",
+				"panel",
+				"palm",
+				"map",
+				"pen",
+				"lap",
+				"mean"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 11,
+			"rowData": [
+				"doublet-d",
+				"e--o----o",
+				"b--lob--u",
+				"u--told-b",
+				"t----u--t",
+				"--l-belt-",
+				"t-o-e-u--",
+				"e-u-tube-",
+				"lode--e--"
+			],
+			"columnData": [
+				"debut-tel",
+				"o-------o",
+				"u----loud",
+				"bolt----e",
+				"l-oo-bet-",
+				"e-blue-u-",
+				"t--d-lube",
+				"-----t-e-",
+				"doubt----"
+			],
+			"options": "doublet",
+			"bonusWords": [
+				"lute",
+				"bed",
+				"toed",
+				"double",
+				"boult",
+				"bold",
+				"duel",
+				"doe"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 12,
+			"rowData": [
+				"log----l-",
+				"--ago--o-",
+				"--l----c-",
+				"-------a-",
+				"-logical-",
+				"-o-oil---",
+				"-c-a-o---",
+				"call-gill",
+				"-l-------"
+			],
+			"columnData": [
+				"l------c-",
+				"o---local",
+				"gal-o--l-",
+				"-g--goal-",
+				"-o--ii---",
+				"----clog-",
+				"----a--i-",
+				"local--l-",
+				"-------l-"
+			],
+			"options": "licogla",
+			"bonusWords": [
+				"gallic",
+				"all",
+				"cola",
+				"lag",
+				"clag",
+				"logic",
+				"glocal",
+				"coil"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 13,
+			"rowData": [
+				"---------",
+				"-jogs----",
+				"----o----",
+				"----u----",
+				"----pug--",
+				"---------",
+				"---------",
+				"---------",
+				"---------"
+			],
+			"columnData": [
+				"---------",
+				"-j-------",
+				"-o-------",
+				"-g-------",
+				"-soup----",
+				"----u----",
+				"----g----",
+				"---------",
+				"---------"
+			],
+			"options": "blanket",
+			"bonusWords": [],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 14,
+			"rowData": [
+				"---undo--",
+				"son--o---",
+				"u---sudan",
+				"n-----a-o",
+				"d-sandy-s",
+				"a-o--o--y",
+				"you--sad-",
+				"--n--a---",
+				"-udon----"
+			],
+			"columnData": [
+				"-sunday--",
+				"-o----o-u",
+				"-n--sound",
+				"u---a---o",
+				"n-s-n---n",
+				"dou-dosa-",
+				"o-day-a--",
+				"--a---d--",
+				"--nosy---"
+			],
+			"options": "usdnayo",
+			"bonusWords": [
+				"soya",
+				"sun",
+				"soda",
+				"any",
+				"unsay",
+				"dynos",
+				"nods",
+				"and"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 15,
+			"rowData": [
+				"--speech-",
+				"--p---h--",
+				"heap--a--",
+				"--c---s--",
+				"-se-cheap",
+				"-h--e---a",
+				"cap-a---c",
+				"-p-escape",
+				"-ease----"
+			],
+			"columnData": [
+				"--h---c--",
+				"--e-shape",
+				"space-p-a",
+				"p-p----es",
+				"e---cease",
+				"e---h--c-",
+				"chase--a-",
+				"h---a--p-",
+				"----pace-"
+			],
+			"options": "eespach",
+			"bonusWords": [
+				"sheep",
+				"case",
+				"see",
+				"pee",
+				"each",
+				"ache",
+				"chap",
+				"peach"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 16,
+			"rowData": [
+				"-omelet-m",
+				"---l--e-o",
+				"p--o--m-t",
+				"e--p--p-e",
+				"l--e--l-l",
+				"m---meet-",
+				"e-m-o--e-",
+				"t-o-l--l-",
+				"--peel-e-"
+			],
+			"columnData": [
+				"--pelmet-",
+				"o--------",
+				"m-----mop",
+				"elope---e",
+				"l----mole",
+				"e----e--l",
+				"temple---",
+				"-----tele",
+				"motel----"
+			],
+			"options": "meetopl",
+			"bonusWords": [
+				"tempo",
+				"poet",
+				"poem",
+				"plot",
+				"pet",
+				"emo",
+				"lept",
+				"lope"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 17,
+			"rowData": [
+				"petal-alt",
+				"a-e---s-e",
+				"lee--plea",
+				"l--e--e--",
+				"e--l--e-s",
+				"t--a--pat",
+				"staple--e",
+				"-a-s----e",
+				"-please-l"
+			],
+			"columnData": [
+				"pallets--",
+				"e-e---tap",
+				"tee---a-l",
+				"a--elapse",
+				"l-----l-a",
+				"--p---e-s",
+				"asleep--e",
+				"l-e--a---",
+				"tea-steel"
+			],
+			"options": "steelpla",
+			"bonusWords": [
+				"tapes",
+				"spell",
+				"lapse",
+				"pales",
+				"plates",
+				"sleep",
+				"pele",
+				"alps"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 18,
+			"rowData": [
+				"-w-swore-",
+				"-e-o-----",
+				"-towers-w",
+				"-s----t-r",
+				"w-----r-o",
+				"r--tore-s",
+				"ero-r-woe",
+				"s---e--w-",
+				"tow-sore-"
+			],
+			"columnData": [
+				"----wrest",
+				"wets--r-o",
+				"--o---o-w",
+				"sow--t---",
+				"w-e--ores",
+				"o-r--r--o",
+				"r-strew-r",
+				"e-----owe",
+				"--wrose--"
+			],
+			"options": "worste",
+			"bonusWords": [
+				"store",
+				"strow",
+				"wrost",
+				"rose",
+				"torse",
+				"rest",
+				"row",
+				"sew"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 19,
+			"rowData": [
+				"---email-",
+				"-m-----i-",
+				"-i-----f-",
+				"-leafy-e-",
+				"-e---a---",
+				"---f-male",
+				"e--l----m",
+				"l--aim--l",
+				"flimy-fay"
+			],
+			"columnData": [
+				"------elf",
+				"-mile---l",
+				"---e----i",
+				"e--a-flam",
+				"m--f---iy",
+				"a--yam-m-",
+				"i----a--f",
+				"life-l--a",
+				"-----emly"
+			],
+			"options": "familey",
+			"bonusWords": [
+				"family",
+				"meal",
+				"fly",
+				"mail",
+				"lime",
+				"may",
+				"elf",
+				"lima"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 20,
+			"rowData": [
+				"protein-r",
+				"e-r-----i",
+				"n-i-----t",
+				"-repoint-",
+				"--n----r-",
+				"p-trip-o-",
+				"r--i---p-",
+				"o--prone-",
+				"piper----"
+			],
+			"columnData": [
+				"pen--prop",
+				"r--r----i",
+				"orient--p",
+				"t--p-ripe",
+				"e--o-i-rr",
+				"i--i-p-o-",
+				"n--n---n-",
+				"---trope-",
+				"rit------"
+			],
+			"options": "protien",
+			"bonusWords": [
+				"pointer",
+				"roit",
+				"print",
+				"intro",
+				"iron",
+				"open",
+				"nip",
+				"note"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 21,
+			"rowData": [
+				"-i----its",
+				"incept--p",
+				"-s------i",
+				"septic--c",
+				"-c---i--e",
+				"-t-site--",
+				"---pie--p",
+				"---i----i",
+				"pectins-t"
+			],
+			"columnData": [
+				"-i-s----p",
+				"insect--e",
+				"-c-p----c",
+				"-e-t-spit",
+				"-p-i-ii-i",
+				"-t-cite-n",
+				"i----e--s",
+				"t--------",
+				"spice-pit"
+			],
+			"options": "pectins",
+			"bonusWords": [
+				"epic",
+				"spec",
+				"spine",
+				"scent",
+				"penis",
+				"pint",
+				"pics",
+				"nice"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 22,
+			"rowData": [
+				"--r------",
+				"--air-t--",
+				"--n---i--",
+				"--train--",
+				"---i-----",
+				"---a-----",
+				"---n-----",
+				"-anti----",
+				"---------"
+			],
+			"columnData": [
+				"---------",
+				"-------a-",
+				"rant---n-",
+				"-i-riant-",
+				"-r-a---i-",
+				"---i-----",
+				"-tin-----",
+				"---------",
+				"---------"
+			],
+			"options": "ratin",
+			"bonusWords": [
+				"art",
+				"tin",
+				"ran",
+				"nit",
+				"rani",
+				"rin",
+				"tain",
+				"aint"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 23,
+			"rowData": [
+				"d--------",
+				"e-sailed-",
+				"a-l-d--a-",
+				"l-i-e--i-",
+				"sad-a--l-",
+				"--e-l----",
+				"l---seal-",
+				"idea--i--",
+				"d--aside-"
+			],
+			"columnData": [
+				"deals-lid",
+				"----a--d-",
+				"-slide-e-",
+				"-a-----aa",
+				"-ideals-s",
+				"-l----e-i",
+				"-e----aid",
+				"-dail-l-e",
+				"---------"
+			],
+			"options": "ladise",
+			"bonusWords": [
+				"ladies",
+				"leads",
+				"slade",
+				"lie",
+				"idles",
+				"laid",
+				"ads",
+				"dies"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 24,
+			"rowData": [
+				"--cherub-",
+				"-c-----u-",
+				"-u-r---n-",
+				"-brunch-c",
+				"-e-b--e-u",
+				"-rue--r-r",
+				"------nub",
+				"bunce----",
+				"-----curn"
+			],
+			"columnData": [
+				"-------b-",
+				"-cuber-u-",
+				"c--r-u-n-",
+				"h-rube-c-",
+				"e--n---e-",
+				"r--c----c",
+				"u--hern-u",
+				"bun---u-r",
+				"---curb-n"
+			],
+			"options": "burnche",
+			"bonusWords": [
+				"cure",
+				"bench",
+				"cube",
+				"rub",
+				"hub",
+				"cunchu",
+				"chub",
+				"ruche"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 25,
+			"rowData": [
+				"----law--",
+				"-jaws-e-l",
+				"-e----a-a",
+				"-weasel-s",
+				"-ea---see",
+				"else-----",
+				"--e--lase",
+				"-slew----",
+				"-----ewes"
+			],
+			"columnData": [
+				"-----e---",
+				"-jewel-s-",
+				"-a-easel-",
+				"-w-a-e-e-",
+				"ls-s---w-",
+				"a--e--l-e",
+				"weals-a-w",
+				"----e-s-e",
+				"-lase-e-s"
+			],
+			"options": "jewelsa",
+			"bonusWords": [
+				"was",
+				"sale",
+				"weel",
+				"wales",
+				"lease",
+				"slaw"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 26,
+			"rowData": [
+				"-seafoul-",
+				"----l--o-",
+				"--woes-w-",
+				"--o-a----",
+				"--l-slow-",
+				"elfs---a-",
+				"-----f-l-",
+				"----sole-",
+				"owes-e-s-"
+			],
+			"columnData": [
+				"-----e--o",
+				"s----l--w",
+				"e-wolf--e",
+				"a-o--s--s",
+				"fleas--s-",
+				"o-s-l-foe",
+				"u---o--l-",
+				"low-wales",
+				"---------"
+			],
+			"options": "flaweso",
+			"bonusWords": [
+				"flows",
+				"sofa",
+				"also",
+				"foals",
+				"aloe",
+				"lowe",
+				"lose",
+				"sow"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 27,
+			"rowData": [
+				"---q----l",
+				"-squeal-o",
+				"-o-a--a-u",
+				"-i-i--s-s",
+				"ql-l--que",
+				"u---soul-",
+				"ail-l-e-o",
+				"s--sue--i",
+				"i---equal"
+			],
+			"columnData": [
+				"----quasi",
+				"-soil-i--",
+				"-q----l--",
+				"quail--s-",
+				"-e---slue",
+				"-a---o-eq",
+				"-lasque-u",
+				"----ul--a",
+				"louse-oil"
+			],
+			"options": "quiesola",
+			"bonusWords": [
+				"also",
+				"lies",
+				"lose",
+				"sail",
+				"seal",
+				"seq",
+				"use",
+				"lase"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 28,
+			"rowData": [
+				"--infers-",
+				"-f--i----",
+				"-i--nerds",
+				"fried-e-n",
+				"-e--end-i",
+				"s---r-fed",
+				"i---s-i-e",
+				"dine--nir",
+				"e-rinse--"
+			],
+			"columnData": [
+				"---f-side",
+				"-fire--i-",
+				"i--i---nr",
+				"n--e---ei",
+				"finders-n",
+				"e-e-n---s",
+				"r-redfine",
+				"s-d--e-i-",
+				"--snider-"
+			],
+			"options": "firndse",
+			"bonusWords": [
+				"den",
+				"fide",
+				"fine",
+				"friend",
+				"ferns",
+				"siren",
+				"rifs",
+				"send"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 29,
+			"rowData": [
+				"-ratted--",
+				"---e-----",
+				"--stated-",
+				"---r-r--d",
+				"d--a-e--a",
+				"e--d-a--t",
+				"a----t--e",
+				"rets-star",
+				"stade---s"
+			],
+			"columnData": [
+				"----dears",
+				"r------et",
+				"a-s----ta",
+				"tetrad-sd",
+				"t-a-----e",
+				"e-treats-",
+				"d-e----t-",
+				"--d----a-",
+				"---daters"
+			],
+			"options": "satrted",
+			"bonusWords": [
+				"taste",
+				"tease",
+				"stead",
+				"red",
+				"trade",
+				"rads",
+				"tetra",
+				"rates"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 30,
+			"rowData": [
+				"senor-ore",
+				"------noe",
+				"-snooze--",
+				"-oe-z-s-r",
+				"zoo-o---o",
+				"-n--noose",
+				"-e--e--o-",
+				"-r--snore",
+				"-------e-"
+			],
+			"columnData": [
+				"s---z----",
+				"e-sooner-",
+				"n-neo----",
+				"o-o------",
+				"r-ozones-",
+				"--z--o-n-",
+				"ones-o-o-",
+				"ro---sore",
+				"ee-roe-e-"
+			],
+			"options": "oosnzer",
+			"bonusWords": [
+				"nero",
+				"zen",
+				"nose",
+				"zero",
+				"orzo",
+				"eon",
+				"rone",
+				"eros"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 31,
+			"rowData": [
+				"--a-raint",
+				"amir---a-",
+				"-artic-rm",
+				"-n---r-ca",
+				"-t---a--r",
+				"tram-mint",
+				"-i-a----i",
+				"-cairn--n",
+				"--antic--"
+			],
+			"columnData": [
+				"-a---t---",
+				"-mantric-",
+				"air--a-aa",
+				"-rt--main",
+				"r-i----rt",
+				"a-cram-ni",
+				"i----i--c",
+				"narc-n---",
+				"t-martin-"
+			],
+			"options": "ctinmar",
+			"bonusWords": [
+				"cart",
+				"mart",
+				"trim",
+				"rain",
+				"ramin",
+				"train",
+				"can",
+				"crit"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 32,
+			"rowData": [
+				"---omer--",
+				"--e-o----",
+				"--g-vog-g",
+				"grove-o-o",
+				"o---r-roe",
+				"m-----g-r",
+				"e--gore--",
+				"rove-----",
+				"---over--"
+			],
+			"columnData": [
+				"---gomer-",
+				"---r---o-",
+				"-ego---v-",
+				"o--v--geo",
+				"mover-o-v",
+				"e-o---r-e",
+				"r-gorge-r",
+				"----o----",
+				"--goer---"
+			],
+			"options": "vgemgro",
+			"bonusWords": [
+				"emo",
+				"more",
+				"move",
+				"gorm",
+				"ergo",
+				"ore",
+				"germ",
+				"ogre"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 33,
+			"rowData": [
+				"steep-vet",
+				"t---e-e--",
+				"o---e-t-p",
+				"votes-o-e",
+				"e-o-----s",
+				"--p---veo",
+				"poets-e--",
+				"o-e---eve",
+				"t-stoep--"
+			],
+			"columnData": [
+				"stove-pot",
+				"t--o--o--",
+				"e--topees",
+				"e--e--t-t",
+				"pees--s-o",
+				"--------e",
+				"veto-veep",
+				"e----e-v-",
+				"t-peso-e-"
+			],
+			"options": "pseotve",
+			"bonusWords": [
+				"vest",
+				"pest",
+				"pet",
+				"spot",
+				"tops",
+				"tees",
+				"post",
+				"ops"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 34,
+			"rowData": [
+				"--haole-b",
+				"-e-c----a",
+				"-bleach-e",
+				"-o---o---",
+				"-l---bole",
+				"cab--l--c",
+				"o--l-echo",
+				"a--a-----",
+				"loach-ceo"
+			],
+			"columnData": [
+				"-----coal",
+				"-ebola--o",
+				"h-l--b--a",
+				"ace---lac",
+				"o-a-----h",
+				"l-coble--",
+				"e-h-o-c-c",
+				"----l-h-e",
+				"bae-eco-o"
+			],
+			"options": "cboelha",
+			"bonusWords": [
+				"cob",
+				"lobe",
+				"cola",
+				"each",
+				"blah",
+				"halo",
+				"beach",
+				"heal"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 35,
+			"rowData": [
+				"--saul---",
+				"--e------",
+				"luxes----",
+				"o-u------",
+				"u-axels--",
+				"s-l---a--",
+				"e----oxes",
+				"------e-e",
+				"--------x"
+			],
+			"columnData": [
+				"--louse--",
+				"--u------",
+				"sexual---",
+				"a-e-x----",
+				"u-s-e----",
+				"l---l-o--",
+				"----saxe-",
+				"------e--",
+				"------sex"
+			],
+			"options": "usloxea",
+			"bonusWords": [],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 36,
+			"rowData": [
+				"--earner-",
+				"-d----n--",
+				"-errand--",
+				"-a-e----e",
+				"-n-n----n",
+				"---darn-d",
+				"-r-e----e",
+				"dearer--a",
+				"-d--denar"
+			],
+			"columnData": [
+				"-------d-",
+				"-dean-red",
+				"e-r----a-",
+				"a-render-",
+				"r-a--a-ed",
+				"n-n--r-re",
+				"end--n--n",
+				"r-------a",
+				"---endear"
+			],
+			"options": "ndeerra",
+			"bonusWords": [
+				"need",
+				"deer",
+				"era",
+				"reader",
+				"near",
+				"dare",
+				"reearn",
+				"are"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 37,
+			"rowData": [
+				"armoured-",
+				"-u----a-a",
+				"-murder-d",
+				"-o-o--duo",
+				"-roar-r-r",
+				"-e-m--u-e",
+				"-doe--m-r",
+				"---d-----",
+				"med-odeum"
+			],
+			"columnData": [
+				"a-------m",
+				"rumored-e",
+				"m-u-o-o-d",
+				"o-roamed-",
+				"u-d-r---o",
+				"r-e-----d",
+				"eardrum-e",
+				"d--u----u",
+				"-adorer-m"
+			],
+			"options": "rmouerad",
+			"bonusWords": [
+				"armure",
+				"remade",
+				"nade",
+				"mud",
+				"rare",
+				"deo",
+				"dream",
+				"drome"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 38,
+			"rowData": [
+				"posy-hop-",
+				"----sophy",
+				"---p---o-",
+				"--syphon-",
+				"snot-o---",
+				"y--hypos-",
+				"n--o-s-p-",
+				"t--n---y-",
+				"hoy------"
+			],
+			"columnData": [
+				"p---synth",
+				"o---n---o",
+				"s--so---y",
+				"y-python-",
+				"-s-p-y---",
+				"ho-hops--",
+				"op-o-o---",
+				"phon-spy-",
+				"-y-------"
+			],
+			"options": "ythpons",
+			"bonusWords": [
+				"toys",
+				"ton",
+				"soth",
+				"typhon",
+				"stony",
+				"pony",
+				"tony",
+				"hot"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 39,
+			"rowData": [
+				"-r--wreck",
+				"-acer----",
+				"-c--arced",
+				"-k--c-a-r",
+				"d-waked-a",
+				"e---e-r-k",
+				"caked-e-e",
+				"k--------",
+				"--creak--"
+			],
+			"columnData": [
+				"----deck-",
+				"rack--a--",
+				"-c--w-k-c",
+				"-e--a-e-r",
+				"wracked-e",
+				"r-r-e---a",
+				"e-cadre-k",
+				"c-e------",
+				"k-drake--"
+			],
+			"options": "werckad",
+			"bonusWords": [
+				"acre",
+				"dare",
+				"ward",
+				"card",
+				"crake",
+				"weak",
+				"race",
+				"wack"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 40,
+			"rowData": [
+				"--trumps-",
+				"strap-at-",
+				"t-a-s-mr-",
+				"u-p----u-",
+				"p-s--puma",
+				"a----a-a-",
+				"--spur---",
+				"--a--turp",
+				"sutra----"
+			],
+			"columnData": [
+				"-stupa--s",
+				"-t------u",
+				"traps-sat",
+				"ra----p-r",
+				"ups---u-a",
+				"m---part-",
+				"pam-u--u-",
+				"struma-r-",
+				"----a--p-"
+			],
+			"options": "tramsup",
+			"bonusWords": [
+				"rat",
+				"spa",
+				"stump",
+				"star",
+				"smut",
+				"tups",
+				"trams",
+				"pram"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 41,
+			"rowData": [
+				"stamp-tam",
+				"p--------",
+				"u----rump",
+				"trap-a--a",
+				"aa---must",
+				"-m---s---",
+				"-p-------",
+				"-spurt---",
+				"---------"
+			],
+			"columnData": [
+				"sputa----",
+				"t--ramps-",
+				"a--a---p-",
+				"m--p---u-",
+				"p------r-",
+				"--rams-t-",
+				"t-u-u----",
+				"a-m-s----",
+				"m-pat----"
+			],
+			"options": "tramsup",
+			"bonusWords": [
+				"rat",
+				"spa",
+				"stump",
+				"star",
+				"smut",
+				"tups",
+				"trams",
+				"pram"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 42,
+			"rowData": [
+				"-orphan--",
+				"-r--o--h-",
+				"-graph-o-",
+				"-a-p---r-",
+				"-nor-hong",
+				"---oar---",
+				"-pong--n-",
+				"-----noah",
+				"groan--g-"
+			],
+			"columnData": [
+				"--------g",
+				"organ-p-r",
+				"r-r-o-o-o",
+				"p-apron-a",
+				"hop--ag-n",
+				"a-h-hr-n-",
+				"n---o--o-",
+				"-horn-nag",
+				"----g--h-"
+			],
+			"options": "oprangh",
+			"bonusWords": [
+				"rang",
+				"porn",
+				"argon",
+				"pang",
+				"hang",
+				"ago",
+				"gap",
+				"nap"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 43,
+			"rowData": [
+				"reigns---",
+				"i---sign-",
+				"n----n---",
+				"sire-girn",
+				"e-e--e-i-",
+				"--s-grins",
+				"r-i-i--g-",
+				"i-n-n--s-",
+				"g---sin--"
+			],
+			"columnData": [
+				"rinse-rig",
+				"e--i-----",
+				"i--resin-",
+				"g--e-----",
+				"ns---gins",
+				"singer--i",
+				"-g-i-i--n",
+				"-n-rings-",
+				"---n-s---"
+			],
+			"options": "sirnge",
+			"bonusWords": [
+				"sering",
+				"renig",
+				"serin",
+				"snig",
+				"rise",
+				"reg"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 44,
+			"rowData": [
+				"-spraint-",
+				"--a---nut",
+				"putin--r-",
+				"a-i----n-",
+				"i-n--i-i-",
+				"n-s--nips",
+				"s--rapist",
+				"-----u--a",
+				"aurist--n"
+			],
+			"columnData": [
+				"--pains-a",
+				"s-u-----u",
+				"patins--r",
+				"r-i---r-i",
+				"a-n---a-s",
+				"i---input",
+				"nn---ii--",
+				"turnips--",
+				"-t---stan"
+			],
+			"options": "sprintua",
+			"bonusWords": [
+				"stair",
+				"unrip",
+				"pins",
+				"trains",
+				"spun",
+				"tapirs"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 45,
+			"rowData": [
+				"suitor-t-",
+				"i----o-o-",
+				"m----u-u-",
+				"-moisture",
+				"-o---e-i-",
+				"-riots-s-",
+				"-trio--m-",
+				"---------",
+				"oestrum--"
+			],
+			"columnData": [
+				"sim-----o",
+				"u--mort-e",
+				"i--o-ir-s",
+				"t--i-oi-t",
+				"o--s-to-r",
+				"routes--u",
+				"---u----m",
+				"tourism--",
+				"---e-----"
+			],
+			"options": "ssss",
+			"bonusWords": [],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 46,
+			"rowData": [
+				"suitor-t-",
+				"i----o-o-",
+				"m----u-u-",
+				"-moisture",
+				"-o---e-i-",
+				"-riots-s-",
+				"-trio--m-",
+				"---------",
+				"oestrum--"
+			],
+			"columnData": [
+				"sim-----o",
+				"u--mort-e",
+				"i--o-ir-s",
+				"t--i-oi-t",
+				"o--s-to-r",
+				"routes--u",
+				"---u----m",
+				"tourism--",
+				"---e-----"
+			],
+			"options": "ssss",
+			"bonusWords": [],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		},
+		{
+			"levelID": 47,
+			"rowData": [
+				"mustier-n",
+				"e--u-rome",
+				"r--m-o--t",
+				"i--o-toe-",
+				"tier-i--t",
+				"s----sumo",
+				"--stum--r",
+				"---i----s",
+				"---rimose"
+			],
+			"columnData": [
+				"merits---",
+				"u---i----",
+				"s---e-s--",
+				"tumor-tir",
+				"i-----u-i",
+				"erotism-m",
+				"ro-o-u--o",
+				"-m-e-m--s",
+				"net-torse"
+			],
+			"options": "moisture",
+			"bonusWords": [
+				"tours",
+				"euros",
+				"restro",
+				"tires",
+				"tries",
+				"mute",
+				"mist",
+				"smut"
+			],
+			"revealedWordKey": [],
+			"foundBonusWords": [],
+			"foundWords": [],
+			"bestTime": 0.0,
+			"timeTaken": 0.0
+		}
+	]
+}
